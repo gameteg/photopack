@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+h2{
+    font-family: 'Righteous', cursive;
+    color : #fff;
+}
+
+h1{
+    font-family: 'Righteous', cursive;
+    color : #fff;
+    font-size: 70px !important;
+}
+
+.image{
+    background-image : url("images/samples/fantasty/001.png") !important;
+}
+
+
+.bar{
+    padding : 50px;
+    text-align: center;
+    background : rgb(132, 0, 255);
+}
+
+
+
+
+img{
+    background :rgb(236, 236, 236);
+    transition: 0.5s;
+}
+
+.kh{
+    
+    background : linear-gradient(rgb(162, 152, 177), #fff);   
+
+}
+
+
+.br{
+    border-color:  #fff !important;
+}
+
+.ti{
+    margin-top : 15px !important;
+}
+
+
+img:hover{
+    margin : 3px;
+    background : black;
+}
